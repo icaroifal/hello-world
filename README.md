@@ -1,4 +1,4 @@
 # hello-world
-"meu primeiro projeto do Githun
+meu primeiro projeto do Github
 
 
